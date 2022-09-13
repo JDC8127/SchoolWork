@@ -1,0 +1,5 @@
+#school account
+Host github.com-jdc8127
+          HostName github.com
+          User git
+          IdentityFile /ssh/jdc8127
